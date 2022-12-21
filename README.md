@@ -1,4 +1,62 @@
-### Hi there 👋
+
+![github contribution grid snake animation](https://github.com/jarneamerlinck/jarneamerlinck/blob/output/github-contribution-grid-snake.svg)
+
+
+# Connect with me
+
+
+<p >
+
+[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/jarneamerlinck/)
+[<img src="https://img.shields.io/badge/tryhackme-%2312100E.svg?&style=for-the-badge&logo=tryhackme&logoColor=white&color=black" />](https://tryhackme.com/p/eragon1442)
+
+</p>
+<p align="center"><a href="https://github.com/jarneamerlinck">
+  <img src="https://github-readme-stats.vercel.app/api?username=jarneamerlinck&count_private=true&show_icons=true&theme=transparent" />
+</a></p>
+
+# Skills
+## Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
+![C](https://img.shields.io/badge/C-%23008080.svg?style=for-the-badge&logo=c&logoColor=white)&nbsp;
+![R](https://img.shields.io/badge/R-%3776AB.svg?style=for-the-badge&logo=R&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;
+
+## ML and DL
+
+![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)&nbsp;
+![Keras](https://img.shields.io/badge/Keras-FF6F00?style=for-the-badge&logo=keras&logoColor=white)&nbsp;
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)&nbsp;
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)&nbsp;
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
+![Pytorch](https://img.shields.io/badge/Pytorch-005571?style=for-the-badge&logo=Pytorch)&nbsp;
+![Mlflow](https://img.shields.io/badge/Mlflow-005571?style=for-the-badge&color=grey&logo=mlflow)&nbsp;
+
+## Infrastructure
+
+![Docker](https://img.shields.io/badge/Docker-23150458?style=for-the-badge&color=blue&logo=Docker&logoColor=white)&nbsp;
+![Docker compose](https://img.shields.io/badge/Docker--compose-FF6F00?style=for-the-badge&logo=Docker--Ccompose&logoColor=white)&nbsp;
+![Portainer](https://img.shields.io/badge/Portainer-%23F7931E.svg?style=for-the-badge&color=grey&logo=Portainer&logoColor=white)&nbsp;
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23013243.svg?style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;
+
+## Tools
+
+![Linux](https://img.shields.io/badge/Linux-FF6F00?style=for-the-badge&color=lightgreen&logo=Linux&logoColor=black)&nbsp;
+![Git](https://img.shields.io/badge/git-%23F7931E.svg?style=for-the-badge&color=grey&logo=git&logoColor=white)&nbsp;
+![githubactions](https://img.shields.io/badge/github--actions-%23013243.svg?style=for-the-badge&logo=githubactions&logoColor=white)&nbsp;
+![gitlab](https://img.shields.io/badge/gitlab-23150458?style=for-the-badge&color=blue&logo=gitlab&logoColor=white)&nbsp;
+![Conda](https://img.shields.io/badge/Conda-23150458?style=for-the-badge&color=red&logo=anaconda&logoColor=white)&nbsp;
+
+## IDE's
+
+![vim](https://img.shields.io/badge/vim-FF6F00?style=for-the-badge&color=lightgreen&logo=vim&logoColor=black)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
+![pycharm](https://img.shields.io/badge/pycharm-%23013243.svg?style=for-the-badge&color=lightblue&logo=pycharm&logoColor=black)&nbsp;
+![stmicroelectronics](https://img.shields.io/badge/stmicroelectronics-%23000000.svg?style=for-the-badge&logo=stmicroelectronics&logoColor=white)&nbsp;
+
 
 <!--
 **jarneamerlinck/jarneamerlinck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
