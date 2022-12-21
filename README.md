@@ -2,7 +2,7 @@
 ![github contribution grid snake animation](https://github.com/jarneamerlinck/jarneamerlinck/blob/output/github-contribution-grid-snake.svg)
 
 
-# Connect with me
+# Find me on
 
 
 <p >
