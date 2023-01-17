@@ -12,7 +12,7 @@
 
 </p>
 <p align="center"><a href="https://github.com/jarneamerlinck">
-  <img src="https://github-readme-stats.vercel.app/api?username=jarneamerlinck&count_private=true&show_icons=true&theme=transparent" />
+  <img src="https://github-readme-stats-omega-lovat.vercel.app/api?username=jarneamerlinck&count_private=true&show_icons=true&theme=transparent" />
 </a></p>
 
 # Skills
