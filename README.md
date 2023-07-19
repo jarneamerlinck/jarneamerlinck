@@ -38,7 +38,7 @@
 ## Infrastructure
 
 ![Docker](https://img.shields.io/badge/Docker-23150458?style=for-the-badge&color=blue&logo=Docker&logoColor=white)&nbsp;
-![Docker compose](https://img.shields.io/badge/Docker--compose-FF6F00?style=for-the-badge&logo=Docker--Ccompose&logoColor=white)&nbsp;
+![Ansible](https://img.shields.io/badge/ansible-%FF6F00.svg?style=for-the-badge&logo=ansible&logoColor=white)&nbsp;
 ![Portainer](https://img.shields.io/badge/Portainer-%23F7931E.svg?style=for-the-badge&color=grey&logo=Portainer&logoColor=white)&nbsp;
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23013243.svg?style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;
 
