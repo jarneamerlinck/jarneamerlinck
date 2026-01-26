@@ -1,7 +1,3 @@
-
-![github contribution grid snake animation](https://github.com/jarneamerlinck/jarneamerlinck/blob/output/github-contribution-grid-snake.svg)
-
-
 # Find me on
 
 
