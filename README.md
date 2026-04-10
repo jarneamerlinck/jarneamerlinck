@@ -16,11 +16,12 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
+![Nix](https://img.shields.io/badge/Nix-23150458?style=for-the-badge&color=black&logo=nixos&logoColor=white)&nbsp;
 ![C](https://img.shields.io/badge/C-%23008080.svg?style=for-the-badge&logo=c&logoColor=white)&nbsp;
 ![R](https://img.shields.io/badge/R-%3776AB.svg?style=for-the-badge&logo=R&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;
-![Nix](https://img.shields.io/badge/Nix-23150458?style=for-the-badge&color=black&logo=nixos&logoColor=white)&nbsp;
+
 
 ## ML and DL
 
