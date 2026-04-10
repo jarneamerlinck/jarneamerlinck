@@ -20,6 +20,7 @@
 ![R](https://img.shields.io/badge/R-%3776AB.svg?style=for-the-badge&logo=R&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;
+![Nix](https://img.shields.io/badge/Nix-23150458?style=for-the-badge&color=black&logo=nixos&logoColor=white)&nbsp;
 
 ## ML and DL
 
@@ -33,6 +34,7 @@
 
 ## Infrastructure
 
+![Nixos](https://img.shields.io/badge/Nixos-23150458?style=for-the-badge&color=black&logo=nixos&logoColor=white)&nbsp;
 ![Docker](https://img.shields.io/badge/Docker-23150458?style=for-the-badge&color=blue&logo=Docker&logoColor=white)&nbsp;
 ![Ansible](https://img.shields.io/badge/ansible-%FF6F00.svg?style=for-the-badge&logo=ansible&logoColor=white)&nbsp;
 ![Portainer](https://img.shields.io/badge/Portainer-%23F7931E.svg?style=for-the-badge&color=grey&logo=Portainer&logoColor=white)&nbsp;
@@ -47,7 +49,7 @@
 
 ## IDE's
 
-![vim](https://img.shields.io/badge/vim-FF6F00?style=for-the-badge&color=lightgreen&logo=vim&logoColor=black)&nbsp;
+![neovim](https://img.shields.io/badge/neovim-FF6F00?style=for-the-badge&color=lightgreen&logo=neovim&logoColor=black)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 ![pycharm](https://img.shields.io/badge/pycharm-%23013243.svg?style=for-the-badge&color=lightblue&logo=pycharm&logoColor=black)&nbsp;
 ![stmicroelectronics](https://img.shields.io/badge/stmicroelectronics-%23000000.svg?style=for-the-badge&logo=stmicroelectronics&logoColor=white)&nbsp;
