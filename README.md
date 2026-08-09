@@ -4,12 +4,7 @@
 <p >
 
 [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/jarneamerlinck/)
-[<img src="https://img.shields.io/badge/tryhackme-%2312100E.svg?&style=for-the-badge&logo=tryhackme&logoColor=white&color=black" />](https://tryhackme.com/p/eragon1442)
 
-</p>
-<p align="center"><a href="https://github.com/jarneamerlinck">
-  <img src="https://github-readme-stats-omega-lovat.vercel.app/api?username=jarneamerlinck&count_private=true&show_icons=true&theme=transparent" />
-</a></p>
 
 # Skills
 ## Languages
